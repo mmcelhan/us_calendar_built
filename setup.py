@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="uscalendar",
-    version="0.0.1",
+    version="0.0.2",
     author="Matthew McElhaney",
     author_email="matt@lamplightlab.com",
     description="Package that contains modules for US Federal Holidays and US Market Opens",
@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/mmcelhan/us_calendar_source",
     project_urls={
-        "blog post": "https://lamplightlab.com/?p=61",
+        "blog post": "https://lamplightlab.com/2022/01/27/end-to-end-guide-for-creating-python-packages/",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

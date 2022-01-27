@@ -1,6 +1,6 @@
 import datetime
 import sys
-import helpers as hlp
+from src.uscalendar import helpers as hlp
 
 """
 Package that returns if it's a trading day on the US Stock market.

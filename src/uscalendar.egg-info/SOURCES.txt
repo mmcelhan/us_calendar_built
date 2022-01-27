@@ -1,5 +1,6 @@
 LICENSE
 README.md
+pyproject.toml
 setup.py
 src/uscalendar/__init__.py
 src/uscalendar/federal_holiday.py
