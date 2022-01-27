@@ -93,13 +93,24 @@ Returns True
 
 Sunday
 
-marketopen.market_open('2021-11-28') Returns False
+marketopen.market_open('2021-11-28') 
+
+Returns False
+
 Monday
 
-marketopen.market_open('2021-11-29) Returns True
+marketopen.market_open('2021-11-29) 
+
+Returns True
+
 Thanksgiving 2023
 
-marketopen.market_open('2023-11-23') Returns True
+marketopen.market_open('2023-11-23') 
+
+Returns True
+
 Fourth of July
 
-marketopen.market_open('2021-07-04') Returns False
+marketopen.market_open('2021-07-04') 
+
+Returns False
